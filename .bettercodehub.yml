@@ -1,3 +1,16 @@
 exclude: 
-- /bin/.*
-- /lib/.*
+  - /bin/.*
+  - /lib/.*
+include:
+  - /quickstart/src/.*
+  - /tapestry-annotations/src/.*
+  - /tapestry-component-report/src/.*
+  - /tapestry-core/src/.*
+  - /tapestry-hibernate/src/.*
+  - /tapestry-hibernate-core/src/.*
+  - /tapestry-ioc/src/.*
+  - /tapestry-project/src/.*
+  - /tapestry-spring/src/.*
+  - /tapestry-test/src/.*
+  - /tapestry-tutorial1/src/.*
+  - /tapestry-upload/src/.*
